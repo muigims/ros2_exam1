@@ -78,8 +78,6 @@ ros2 run mission teleop_schedule.py
 ```
 <br>
 
-![image](https://github.com/user-attachments/assets/8bfb170f-f18d-47a6-8e2c-bd8831175dee)
-
 ![image](https://github.com/user-attachments/assets/fb1a20a7-dcf0-46b5-a9c0-13352bd9898b)
 
 <br>จากโจทย์ที่ได้รับในส่วนที่ 1  เราสามารถควบคุมการเคลื่อนที่ของเต่าผ่านคีย์บอร์ดได้ และทำการทิ้งพิซซ่า บันทึกค่าตำแหน่งที่ทิ้งพิซซ่าได้ <br> โดยค่าที่ได้ถูกเก็บไว้ใน yaml file ซึ่งแสดงผลได้ดังนี้<br>
